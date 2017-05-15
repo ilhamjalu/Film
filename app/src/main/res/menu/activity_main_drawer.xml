@@ -9,16 +9,21 @@
         <item
             android:id="@+id/nav_now"
             android:icon="@drawable/ic_fast_forward_black_24dp"
-            android:title="Now Playing" />
+            android:title="Now Release" />
+
+        <item
+            android:id="@+id/nav_star"
+            android:icon="@drawable/ic_trending_up_black_24dp"
+            android:title="Rated Movie" />
 
         <item
             android:id="@+id/nav_up"
             android:icon="@drawable/ic_call_missed_outgoing_black_24dp"
-            android:title="UP Coming Movie" />
+            android:title="Coming soon" />
 
     </group>
 
-    <item android:title="Author">
+    <item android:title="About">
         <menu>
             <item
                 android:id="@+id/nav_about"
