@@ -23,6 +23,8 @@ https://api.themoviedb.org/3/movie/upcoming?api_key=f95c293d51fe8761b125734a7cf9
 <br><br>
 # Jenis Navigasi yang digunakan pada Aplikasi
 Navigation Drawer
+# Library dari Local Database yang digunakan pada Aplikasi
+Volley dan LocalDatabase SQL lite<br>
 # Deskripsi singkat dari aplikasi
 Aplikasi yang membantu user untuk mencari film yang bagus untuk dilihat, menampilkan data film berdasarkan rating tertinggi, terbaru, dan yang akan tayang<br>
 # Kelebihan dari Aplikasi menurut kalian
